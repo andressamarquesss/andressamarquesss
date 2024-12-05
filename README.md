@@ -6,7 +6,7 @@
 
 - Tenho 16 anos.
 
-- Sou estudante de Desenvolivimento de Sistema no IFTM.
+- Sou estudante de Desenvolvimento de Sistemas no IFTM.
 
 - Estou aprendendo **HTML,CSS, Java e Phyton**.
 

@@ -12,5 +12,5 @@
 
 - Como entrar em contato comigo? andressa.fonseca@estudante.iftm.edu.br
 
-- Um fato engraçado, eu já tive 20 gatos.
+
 
